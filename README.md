@@ -13,7 +13,7 @@ GenSON-1.0 has four simple functions.
 
 ```java
 cleanJson(String json ,String openBrackets) // if openBrackets doesn't equal [ or { 
-                                           //  the function will return the json string not changed
+                                           //  the function will return the original json String
 ```
 
  
@@ -46,5 +46,7 @@ getArray(String json)
 
 GenSON is non-string based parser which means that it should be used only if you have an idea on the contents of it. You can see few [examples](https://github.com/EvgeniGenchev/GenSON-lib/tree/master/test) on OpenWeather API's retrieved JSON files.
 
+##LICENSE
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
