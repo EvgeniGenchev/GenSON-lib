@@ -46,7 +46,7 @@ getArray(String json)
 
 GenSON is non-string based parser which means that it should be used only if you have an idea on the contents of it. You can see few [examples](https://github.com/EvgeniGenchev/GenSON-lib/tree/master/test) on OpenWeather API's retrieved JSON files.
 
-##LICENSE
+## LICENSE
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
