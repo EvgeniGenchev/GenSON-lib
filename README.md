@@ -1,5 +1,5 @@
 # GenSON
-Non-string based JSON parsering library for JAVA.
+Non-string based JSON parsring library for JAVA.
 
 ## Downloads
 Download [GenSON-1.0](https://github.com/EvgeniGenchev/GenSON-lib/tree/master/realise)
