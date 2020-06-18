@@ -38,7 +38,7 @@ getSubClass(String json)
 
 
 ```java
-getArray(String json)
+parseKeys(String json)
 ```
 
 
