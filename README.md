@@ -15,7 +15,7 @@ GenSON-1.0 has four simple functions.
 cleanJson(String json ,String openBrackets) // if openBrackets doesn't equal [ or { 
                                            //  the function will return the original json String
 ```
-<hr>
+<br>
  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GetArray** is a function that returns a ArrayList<String> of all of the highest rank arrays. Don't forget to use `.get(0)` if getArray returns only JSONarray.
   
@@ -24,7 +24,7 @@ cleanJson(String json ,String openBrackets) // if openBrackets doesn't equal [ o
 ```java
 getArray(String json)
 ```
-<hr>
+<br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GetSubClass** is a function  that returns a ArrayList<String> of all of the highest rank nested objects. Don't forget to use `.get(0)` if getArray returns only JSONarray.
   
@@ -32,7 +32,7 @@ getArray(String json)
   ```java
 getSubClass(String json)
 ```
-<hr>
+<br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ParseKeys** is a function that returns a HashMap<String, String> of all of keys and their values. Don't forget that if your JSON string contains multiple occurances of a key with different values you have to parse the JSON file with one of the functions above before trying to parse the keys.Otherwise, you keys will have the last value that is used for it.
 
