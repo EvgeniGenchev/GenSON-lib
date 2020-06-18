@@ -2,7 +2,7 @@
 Non-string based JSON parsring library for JAVA.
 
 ## Downloads
-Download [GenSON-1.0](https://github.com/EvgeniGenchev/GenSON-lib/tree/master/realise)
+Download [GenSON-1.0](https://github.com/EvgeniGenchev/GenSON-lib/releases/tag/1.0)
 
 ## Functions
 
