@@ -44,7 +44,7 @@ parseKeys(String json)
 
 ## Usage
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GenSON is non-string based parser which means that it should be used only if you have an idea on the contents of it. You can see few [examples](https://github.com/EvgeniGenchev/GenSON-lib/tree/master/test) on OpenWeather API's retrieved JSON files.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GenSON is non-string based parser which means that it should be used only if you have an idea on the contents of the JSON String that you will work with. You can see few [examples](https://github.com/EvgeniGenchev/GenSON-lib/tree/master/test) on OpenWeather API's retrieved JSON files.
 
 ## LICENSE
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MIT](https://choosealicense.com/licenses/mit/)
