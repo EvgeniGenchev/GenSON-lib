@@ -17,7 +17,7 @@ cleanJson(String json ,String openBrackets) // if openBrackets doesn't equal [ o
 ```
 <br>
  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GetArray** is a function that returns a ArrayList<String> of all of the highest rank arrays. Don't forget to use `.get(0)` if getArray returns only JSONarray.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GetArray** is a function that returns a ArrayList<String> of all of the highest rank arrays. Don't forget to use `.get(0)` if getArray returns only one JSONarray.
   
 
 
