@@ -31,6 +31,7 @@ public class Main {
     }
 
     // this test extracts the data for the keys of the whole JSON
+    //NOTE: be sure that every key name is unique. Otherwise, first parse the JSON String to get specific object or array!
     private static void test2(){
         var json = read("exampleJSON/Json1.txt");
         var gsp = new GSParser();
