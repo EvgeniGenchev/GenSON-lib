@@ -34,7 +34,7 @@ getSubClass(String json)
 ```
 <br>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ParseKeys** is a function that returns a HashMap<String, String> of all of keys and their values. Don't forget that if your JSON string contains multiple occurances of a key with different values you have to parse the JSON file with one of the functions above before trying to parse the keys.Otherwise, you keys will have the last value that is used for it.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ParseKeys** is a function that returns a HashMap<String, String> of all of keys and their values. Don't forget that if your JSON string contains multiple occurances of a key with different values you have to parse the JSON file with one of the functions above before trying to parse the keys.Otherwise, you keys will have the last value that is used for it. If this is the case check the test folder there is an example on the subject matter.
 
 
 ```java
