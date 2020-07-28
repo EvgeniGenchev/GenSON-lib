@@ -13,7 +13,7 @@ public class Reader {
                 content.append(line);
             }
         }catch (IOException ie){
-            System.out.println("Ne staa shefe");
+            System.out.println("Не стаа шефе");
         }
         return content.toString();
     }
